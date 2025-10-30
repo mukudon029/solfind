@@ -3,7 +3,7 @@
 // import { AnchorProvider, Program, web3 } from "@project-serum/anchor";
 // import rawIdl from "./minimal_find_my_items.json";
 
-// const PROGRAM_ID = new PublicKey("6QfyQYKAUR5rbNgJkLkV4gynvPsbFTcPdQUuZmSVAZMK");
+// const PROGRAM_ID = new PublicKey("A8tyUotdH9iNBCPP51edXn28WZjcuqCZtBmnhWxxUnLu");
 // const NETWORK = clusterApiUrl("devnet");
 
 // // Ensure proper IDL parsing
@@ -177,3 +177,4 @@
 //     </div>
 //   );
 // }
+
