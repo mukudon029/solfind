@@ -1,5 +1,5 @@
 {
-  "address": "6QfyQYKAUR5rbNgJkLkV4gynvPsbFTcPdQUuZmSVAZMK",
+  "address": "A8tyUotdH9iNBCPP51edXn28WZjcuqCZtBmnhWxxUnLu",
   "metadata": {
     "name": "minimal_find_my_items",
     "version": "0.1.0",
@@ -206,4 +206,5 @@
       }
     }
   ]
+
 }
